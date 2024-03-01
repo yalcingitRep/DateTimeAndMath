@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "task": "build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\DateTimeAndMath\\DateTimeAndMath.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\DateTimeAndMath\\DateTimeAndMath.csproj",
+            "label": "build N",
+            
+            "type": "dotnet",
+            
+            "problemMatcher": [
+            ],
+
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
